@@ -1,6 +1,6 @@
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
-
+<jsp:include page="../shared/head.jsp"/>
 <link rel="stylesheet" href="${pageContext.request.contextPath}/public/css/auth.css">
 <link rel="stylesheet" href="${pageContext.request.contextPath}/public/css/login.css">
 <body>

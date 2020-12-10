@@ -52,6 +52,6 @@
 </div>  
 
 <jsp:include page="../../shared/scripts.jsp"/>
-<script src="./src/js/app.js"></script>
+<script src="${pageContext.request.contextPath}/public/js/app.js"></script>
 
 

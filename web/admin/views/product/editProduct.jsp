@@ -4,6 +4,7 @@
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 
 <!DOCTYPE html>
+<jsp:include page="../../../shared/head.jsp"/>
 <jsp:include page="../../imports/navbar/navbar.jsp" />
 <body>
     <div class="container">

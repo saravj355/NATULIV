@@ -1,5 +1,5 @@
-<link rel="stylesheet" href="${pageContext.request.contextPath}/public/css/navbar.css">
 <jsp:include page="head.jsp"/>
+<link rel="stylesheet" href="${pageContext.request.contextPath}/public/css/navbar.css">
 <header>
     <nav class="navbar sticky-top stroke py-0">
         <a class="navbar-brand" href="${pageContext.request.contextPath}/index.jsp">
